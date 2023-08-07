@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>loveness' website</title>
 <meta charset ="UTF-8">
 <body>
 
